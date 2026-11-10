@@ -1,6 +1,6 @@
 # Concurrent Delay Map
 
-Created by **Charles Gava** ([GitHub](https://github.com/gavacharles)).
+Research by **Charles Gava** ([GitHub](https://github.com/gavacharles)).
 
 An interactive map of concurrent delay in construction, live at **https://gavacharles.github.io/concurrent-delay-map/**
 
